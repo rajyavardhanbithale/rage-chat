@@ -14,8 +14,4 @@ Some specific React concepts this tutorial teaches are:
 2. Add your Firebase configuration to `src/services/firebase.js`
 3. Run `yarn && yarn start`
 
-## Support my work
 
-If you found my tutorial helpful, please consider supporting my work financially:
-
-<a href="https://www.buymeacoffee.com/zachsnoek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
